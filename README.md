@@ -1,1 +1,1 @@
-Teste de chave JWT
+Teste de chave JWT para estudo.
